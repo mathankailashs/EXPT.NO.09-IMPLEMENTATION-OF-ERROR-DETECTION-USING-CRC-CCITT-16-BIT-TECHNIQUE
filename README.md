@@ -11,8 +11,15 @@ To write a program for error Detection using Cyclic Redundancy Check (CRC-16 bit
 2.	C++ compiler
 
 # ALGORITHM:
-1] Open code blocks application and create a new file. 2] After creating the file type the codes.
-3] After typing the codes save the file using the .c extension in the desired location. 4] Run the program using build and run.
+
+1] Open code blocks application and create a new file. 
+
+2] After creating the file type the codes.
+
+3] After typing the codes save the file using the .c extension in the desired location.
+
+4] Run the program using build and run.
+
 5] Give polynomial values and the generated polynomial is obtained, and by other means arraive	at the desired output which uses the error detection technique. 6] Thus the output polynomial is obtained through this technique.
 
 # PROGRAM:
